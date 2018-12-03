@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<head>
+  <link rel="stylesheet" href="D3InteractiveChart.css"
+</head>
+<body>
+<h2>Holdings and Uniqueness</h2>
+<div class="container">
+  <div class="menu">
+    <div class="menu_column">
+      <div class="column_head">
+        <input type="radio" id="library" class="series_selector radio" name="active_series" value="library" checked="true">
+        <label for="library">Library</label>
+      </div>
+      <ul id="library_list"></ul>
+    </div>
+    <div class="menu_column">
+      <div class="column_head">
+        <input type="radio" id="country" class="series_selector radio" name="active_series" value="country">
+        <label for="country">Country</label>
+      </div>
+      <ul id="country_list"></ul>
+    </div>
+    <div class="menu_column">
+      <div class="column_head">
+        <input type="radio" id="lc_class" class="series_selector radio" name="active_series" value="lc_class">
+        <label for="lc_class">LC Class</label>
+      </div>
+      <ul id="lc_class_list"></ul>
+    </div>
+  </div>
+  <div class="svg-container">
+    <svg class="chart"></svg>
+  </div>
+</div>
+<p>Click on a column heading to change the x-axis of the chart. </p>
+<p>Click on a column entry to add or remove that entry from the chart. All entries are displayed by default.</p>
+<p>Bars represent items held. Circles represent average uniqueness of items.</p>
+
+<script src="https://d3js.org/d3.v4.min.js"></script>
+<script src="D3InteractiveChart.js"></script>
+</body>
