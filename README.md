@@ -40,4 +40,30 @@ If the error prevents the script from starting (e.g. you don’t see the “Runn
 
 If the error occurs while the script is querying holdings, the most likely culprit is that the OCLC servers have timed out while executing queries, or that it was interrupted by your computer going to sleep or logging out. You can generally just re-run the script; it will pick up where it left off.
 
-If an error occurs repeatedly at the same point in the script, or occurs while calculating duplication of holdings, send a copy of your modified script, along with the error message you received, to Austin Smith (afsmith at umd dot edu).
+If an error occurs repeatedly at the same point in the script, or occurs while calculating duplication of holdings, send a copy of your modified script, along with the error message you received, to Austin Smith (afsmith@umd).
+
+## Using the Output
+
+### Duplication Reports
+
+### Combined Holdings Report
+
+"Combined Holdings Report.csv" contains a detailed listing of holdings & duplication which can be used as input for several different visualizations. Examples can be found at http://go.umd.edu/IASC21 and http://go.umd.edu/IASC21x . The "Excel Spreadsheets" and "D3 Visualization" filders in this repository contain some templates you can use to generate your own visualizations, using the output of your modified custom holdings report.
+
+If you have any difficulty getting these to work, contact Austin Smith (afsmith@umd)
+
+#### Importing Holdings Data into Excel Spreadsheets
+
+1. Open “Combined Holdings Report.csv”, and the Excel template file you would like to use (e.g. “Holdings by Country Template.xlsx”).
+2. Select all cells in the Combined Holdings Report, and copy them.
+3. Select all cells in the Data worksheet of the template file, and paste over them.
+4. On the Table worksheet of the template file, right-click anywhere in the pivot table and click “Refresh”.
+5. Change the title of the chart on the Chart worksheet, if desired. Save the file under a new filename which reflects its contents.
+
+#### Importing Holdings Data into Interactive Visualizations
+
+Javascript visualizations must be hosted on a server, as your browser likely will not execute javascript on a local machine.
+
+1. Copy the “D3 Visualization” folder to your web server.
+2. Save the output from the Combined Holdings & Duplication script (“Combined Holdings Report.csv” to the \D3 Visualization\data\ .
+3. Pointing your browser to D3InteractiveChart.html should now render the interactive chart.
