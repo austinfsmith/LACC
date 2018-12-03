@@ -3,6 +3,8 @@ Latin American Collective Collection project scripts &amp; documentation
 
 # Introduction
 
+(draft in progress)
+
 # Combined Holdings and Duplication Reports.py
 
 ## What does it do?
