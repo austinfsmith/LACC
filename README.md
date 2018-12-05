@@ -14,7 +14,7 @@ This project was presented at the IASC21 conference. Slides are available at htt
 
 # Combined Holdings and Duplication Reports
 
-[Scripts are available in this repository](https://github.com/austinfsmith/LACC/tree/master/Python%20Scripts)
+[Script is available in this repository](https://github.com/austinfsmith/LACC/tree/master/Python%20Scripts)
 
 ## What does it do?
 This script queries the OCLC API to retrieve lists of records for a given set of parameters.
