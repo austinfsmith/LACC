@@ -3,6 +3,9 @@
   Author: Austin Smith, University of Maryland Libraries
   2018
 */
+
+var input_file = "data/Combined Holdings Report.csv"
+
 var w = 1000
 var h = 450;
 
@@ -67,7 +70,7 @@ var dataseries = [],
     libraries = new Set(),
     lc_classes = new Set();
 
-d3.csv("data/Combined Holdings Report.csv", function(data) {
+d3.csv(input_file, function(data) {
   // Load all data into an array. Each element of array is an object
   // with properties (country, lc_class, library, data).
   // Also add countries, libraries, and classes to respective Sets.
