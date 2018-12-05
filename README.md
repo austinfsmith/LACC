@@ -10,7 +10,7 @@ This repository contains scripts and templates created for a project undertaken 
 
 The purpose of the study was to better understand the Big Ten Academic Alliance's resource sharing needs for Spanish and Portuguese materials published in Latin America. The authors employed multiple technologies to expedite gathering,  reconciling,  and  analyzing  data  from  different  sources,  making  this  project  an  excellent  case study for consortial data analysis. The scripts presented here can easily be modified to apply the methodology to other consortia, regions, and subject areas.
 
-This project was presented at the IASC21 conference. Slides are available at [http://hdl.handle.net/1903/21469]
+This project was presented at the IASC21 conference. Slides are available at http://hdl.handle.net/1903/21469 .
 
 # Combined Holdings and Duplication Reports
 
