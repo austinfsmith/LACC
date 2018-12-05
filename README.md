@@ -1,13 +1,18 @@
 # LACC
 Latin American Collective Collection project scripts &amp; documentation
 
+# Table of Contents
+[Introduction](#Introduction)
+[Holdings Reports](#Combined Holdings and Duplication Reports)
+[ILL Reports](#ILL Reports)
+
 # Introduction
 
 This repository contains scripts and templates created for a project undertaken by Lisa Gardinier, Manuel Ostos, Austin Smith, and Hilary Thompson in 2017-2018.
 
 The purpose of the study was to better understand the Big Ten Academic Alliance's resource sharing needs for Spanish and Portuguese materials published in Latin America. The authors employed multiple technologies to expedite gathering,  reconciling,  and  analyzing  data  from  different  sources,  making  this  project  an  excellent  case study for consortial data analysis. The scripts presented here can easily be modified to apply the methodology to other consortia, regions, and subject areas.
 
-# Combined Holdings and Duplication Reports.py
+# Combined Holdings and Duplication Reports
 
 ## What does it do?
 This script queries the OCLC API to retrieve lists of records for a given set of parameters.
@@ -73,3 +78,5 @@ Javascript visualizations must be hosted on a server, as your browser likely wil
 1. Copy the “D3 Visualization” folder to your web server.
 2. Save the output from the Combined Holdings & Duplication script (“Combined Holdings Report.csv” to the \D3 Visualization\data\ . If you change the name of this file, you'll need to change the value of the input_file variable on line 7 of D3InteractiveChart.js.
 3. Pointing your browser to D3InteractiveChart.html should now render the interactive chart.
+
+# ILL Reports
