@@ -2,9 +2,9 @@
 Latin American Collective Collection project scripts &amp; documentation
 
 # Table of Contents
-[Introduction](#Introduction)
-[Holdings Reports](#Combined Holdings and Duplication Reports)
-[ILL Reports](#ILL Reports)
+1. [Introduction](#Introduction)
+2. [Holdings Reports](#Combined Holdings and Duplication Reports)
+3. [ILL Reports](#ILL Reports)
 
 # Introduction
 
