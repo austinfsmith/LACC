@@ -12,6 +12,8 @@ The purpose of the study was to better understand the Big Ten Academic Alliance'
 
 # Combined Holdings and Duplication Reports
 
+[Script available in this repository](../Python%20Scripts/)
+
 ## What does it do?
 This script queries the OCLC API to retrieve lists of records for a given set of parameters.
 
