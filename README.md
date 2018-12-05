@@ -3,7 +3,9 @@ Latin American Collective Collection project scripts &amp; documentation
 
 # Introduction
 
-(draft in progress)
+This repository contains scripts and templates created for a project undertaken by Lisa Gardinier, Manuel Ostos, Austin Smith, and Hilary Thompson in 2017-2018.
+
+The purpose of the study was to better understand the Big Ten Academic Alliance's resource sharing needs for Spanish and Portuguese materials published in Latin America. The authors employed multiple technologies to expedite gathering,  reconciling,  and  analyzing  data  from  different  sources,  making  this  project  an  excellent  case study for consortial data analysis. The scripts presented here can easily be modified to apply the methodology to other consortia, regions, and subject areas.
 
 # Combined Holdings and Duplication Reports.py
 
@@ -48,6 +50,8 @@ If an error occurs repeatedly at the same point in the script, or occurs while c
 
 ### Duplication Reports
 
+One of these reports will be generated for each country included in the script's parameters. Each report contains overall holdings, unique holdings, and degree of duplication for each library and LoC class included in the script's parameters.
+
 ### Combined Holdings Report
 
 "Combined Holdings Report.csv" contains a detailed listing of holdings & duplication which can be used as input for several different visualizations. Examples can be found at http://go.umd.edu/IASC21 and http://go.umd.edu/IASC21x . The "Excel Spreadsheets" and "D3 Visualization" filders in this repository contain some templates you can use to generate your own visualizations, using the output of your modified custom holdings report.
@@ -67,5 +71,5 @@ If you have any difficulty getting these to work, contact Austin Smith (afsmith@
 Javascript visualizations must be hosted on a server, as your browser likely will not execute javascript on a local machine.
 
 1. Copy the “D3 Visualization” folder to your web server.
-2. Save the output from the Combined Holdings & Duplication script (“Combined Holdings Report.csv” to the \D3 Visualization\data\ .
+2. Save the output from the Combined Holdings & Duplication script (“Combined Holdings Report.csv” to the \D3 Visualization\data\ . If you change the name of this file, you'll need to change the value of the input_file variable on line 7 of D3InteractiveChart.js.
 3. Pointing your browser to D3InteractiveChart.html should now render the interactive chart.
