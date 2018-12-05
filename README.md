@@ -1,5 +1,5 @@
-# LACC
-Latin American Collective Collection project scripts &amp; documentation
+# Latin American Collective Collection Project - scripts &amp; documentation
+
 
 # Table of Contents
 1. [Introduction](#Introduction)
