@@ -1,7 +1,5 @@
-# Latin American Collective Collection Project - scripts &amp; documentation
+# Latin American Collective Collection Project
 
-
-# Table of Contents
 1. [Introduction](#Introduction)
 2. [Holdings Reports](#Combined-Holdings-and-Duplication-Reports)
 3. [ILL Reports](#ILL-Reports)
