@@ -10,6 +10,8 @@ This repository contains scripts and templates created for a project undertaken 
 
 The purpose of the study was to better understand the Big Ten Academic Alliance's resource sharing needs for Spanish and Portuguese materials published in Latin America. The authors employed multiple technologies to expedite gathering,  reconciling,  and  analyzing  data  from  different  sources,  making  this  project  an  excellent  case study for consortial data analysis. The scripts presented here can easily be modified to apply the methodology to other consortia, regions, and subject areas.
 
+This project was presented at the IASC21 conference. Slides are available at [http://hdl.handle.net/1903/21469]
+
 # Combined Holdings and Duplication Reports
 
 [Script available in this repository](https://github.com/austinfsmith/LACC/tree/master/Python%20Scripts)
@@ -65,6 +67,8 @@ If you have any difficulty getting these to work, contact Austin Smith (afsmith@
 
 #### Importing Holdings Data into Excel Spreadsheets
 
+Examples presented at the IASC21 conference are available at https://go.umd.edu/IASC21x
+
 1. Open “Combined Holdings Report.csv”, and the Excel template file you would like to use (e.g. “Holdings by Country Template.xlsx”).
 2. Select all cells in the Combined Holdings Report, and copy them.
 3. Select all cells in the Data worksheet of the template file, and paste over them.
@@ -72,6 +76,8 @@ If you have any difficulty getting these to work, contact Austin Smith (afsmith@
 5. Change the title of the chart on the Chart worksheet, if desired. Save the file under a new filename which reflects its contents.
 
 #### Importing Holdings Data into Interactive Visualizations
+
+Examples presented at the IASC21 conference are available at https://go.umd.edu/IASC21
 
 Javascript visualizations must be hosted on a server, as your browser likely will not execute javascript on a local machine.
 
