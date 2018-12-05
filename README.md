@@ -14,7 +14,7 @@ This project was presented at the IASC21 conference. Slides are available at htt
 
 # Combined Holdings and Duplication Reports
 
-[Script available in this repository](https://github.com/austinfsmith/LACC/tree/master/Python%20Scripts)
+[Scripts are available in this repository](https://github.com/austinfsmith/LACC/tree/master/Python%20Scripts)
 
 ## What does it do?
 This script queries the OCLC API to retrieve lists of records for a given set of parameters.
@@ -67,6 +67,8 @@ If you have any difficulty getting these to work, contact Austin Smith (afsmith@
 
 #### Importing Holdings Data into Excel Spreadsheets
 
+[Templates are available in this repository](https://github.com/austinfsmith/LACC/tree/master/Excel%20Templates)
+
 Examples presented at the IASC21 conference are available at https://go.umd.edu/IASC21x
 
 1. Open “Combined Holdings Report.csv”, and the Excel template file you would like to use (e.g. “Holdings by Country Template.xlsx”).
@@ -76,6 +78,8 @@ Examples presented at the IASC21 conference are available at https://go.umd.edu/
 5. Change the title of the chart on the Chart worksheet, if desired. Save the file under a new filename which reflects its contents.
 
 #### Importing Holdings Data into Interactive Visualizations
+
+[Pages and scripts are available in this repository](https://github.com/austinfsmith/LACC/tree/master/D3%20Visualization)
 
 Examples presented at the IASC21 conference are available at https://go.umd.edu/IASC21
 
