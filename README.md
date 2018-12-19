@@ -8,7 +8,7 @@
 
 This repository contains scripts and templates created for a project undertaken by Lisa Gardinier, Manuel Ostos, Austin Smith, and Hilary Thompson in 2017-2018.
 
-The purpose of the study was to better understand the Big Ten Academic Alliance's resource sharing needs for Spanish and Portuguese materials published in Latin America. The authors employed multiple technologies to expedite gathering,  reconciling,  and  analyzing  data  from  different  sources,  making  this  project  an  excellent  case study for consortial data analysis. The scripts presented here can easily be modified to apply the methodology to other consortia, regions, and subject areas.
+The purpose of the study was to better understand the Big Ten Academic Alliance's resource sharing needs for Spanish and Portuguese materials published in Latin America and to develop data-informed models for cooperative collection development of these publications. The authors employed multiple technologies to expedite gathering,  reconciling,  and  analyzing  data  from  different  sources,  making  this  project  an  excellent  case study for consortial data analysis. The scripts presented here can be modified to apply the methodology to other consortia, regions, and subject areas.
 
 This project was presented at the IASC21 conference. Slides are available at http://hdl.handle.net/1903/21469 .
 
@@ -26,15 +26,15 @@ The parameters include:
 
 Additional parameters (e.g. publication year, format) may be used to limit the records queried.
 
-The script uses these holdings list to determine the degree of duplication of materials within the specified parameters for the specified libraries.
+The script uses these holdings lists to determine the degree of duplication of materials within the specified parameters for the specified libraries.
 
-## Pre-requisites
+## Prerequisites
 * Python 3.6+ : https://www.python.org/
 * A WSKey for the WorldCat Search API : https://www.oclc.org/developer/develop/authentication/how-to-request-a-wskey.en.html
 * Review the OCLC API Terms of Use : https://www.oclc.org/content/dam/developer-network/PDFs/wcapi-terms-and-conditions-20121204.pdf
 
 ## Using the Script
-First, add your WSKey (see “Pre-requisites”).
+First, add your WSKey (see “Prerequisites”).
 
 Modify the countries, library_symbols, and lc_classes variables to reflect the parameters of your investigation. It’s advisable to keep these lists fairly focused (no more than twenty items per list). Longer lists of parameters will dramatically increase the execution time.
 
@@ -47,7 +47,7 @@ This is a research script, not a finished software project. It does not have sop
 
 There are a number of possible reasons that the script may fail to run to completion:
 
-If the error prevents the script from starting (e.g. you don’t see the “Running Combined Holdings and Duplication Report”), there is a problem with the formatting of your parameters or WSkey. Double-check these, making sure that you’re following the instructions given in the comments.
+If the error prevents the script from starting (e.g. you don’t see the “Running Combined Holdings and Duplication Report” message in the Python console), there is a problem with the formatting of your parameters or WSkey. Double-check these, making sure that you’re following the instructions given in the comments.
 
 If the error occurs while the script is querying holdings, the most likely culprit is that the OCLC servers have timed out while executing queries, or that it was interrupted by your computer going to sleep or logging out. You can generally just re-run the script; it will pick up where it left off.
 
