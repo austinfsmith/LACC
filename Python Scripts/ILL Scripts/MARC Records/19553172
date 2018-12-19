@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+    <leader>00000cam a2200000 a 4500</leader>
+    <controlfield tag="001">19553172</controlfield>
+    <controlfield tag="008">881215s1988    mx           f000 0 spa  </controlfield>
+    <datafield ind1=" " ind2=" " tag="010">
+      <subfield code="a">   88212174 </subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="040">
+      <subfield code="a">DLC</subfield>
+      <subfield code="b">eng</subfield>
+      <subfield code="c">DLC</subfield>
+      <subfield code="d">EL$</subfield>
+      <subfield code="d">OCLCO</subfield>
+      <subfield code="d">OCLCF</subfield>
+      <subfield code="d">OCLCQ</subfield>
+      <subfield code="d">OCL</subfield>
+      <subfield code="d">OCLCQ</subfield>
+      <subfield code="d">OCLCA</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="019">
+      <subfield code="a">18735112</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="020">
+      <subfield code="a">9682917255</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="020">
+      <subfield code="a">9789682917257</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="043">
+      <subfield code="a">n-mx---</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="4" tag="050">
+      <subfield code="a">F1386.3</subfield>
+      <subfield code="b">.C76 1988</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="082">
+      <subfield code="a">972/.53</subfield>
+      <subfield code="2">20</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="0" tag="245">
+      <subfield code="a">Crónicas y relatos de la solidaridad en la reconstrucción.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="260">
+      <subfield code="a">México, D.F. :</subfield>
+      <subfield code="b">Museo Nacional de Culturas Populares, Dirección General de Culturas Populares, SEP,</subfield>
+      <subfield code="c">©1988.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">230 pages ;</subfield>
+      <subfield code="c">21 cm.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="336">
+      <subfield code="a">text</subfield>
+      <subfield code="b">txt</subfield>
+      <subfield code="2">rdacontent</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="337">
+      <subfield code="a">unmediated</subfield>
+      <subfield code="b">n</subfield>
+      <subfield code="2">rdamedia</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="338">
+      <subfield code="a">volume</subfield>
+      <subfield code="b">nc</subfield>
+      <subfield code="2">rdacarrier</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="490">
+      <subfield code="a">Serie Testimonios</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="651">
+      <subfield code="a">Mexico City (Mexico)</subfield>
+      <subfield code="x">History.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Earthquakes</subfield>
+      <subfield code="z">Mexico</subfield>
+      <subfield code="z">Mexico City</subfield>
+      <subfield code="x">History</subfield>
+      <subfield code="y">20th century.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Disasters</subfield>
+      <subfield code="x">Psychological aspects.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Disaster relief</subfield>
+      <subfield code="z">Mexico</subfield>
+      <subfield code="z">Mexico City</subfield>
+      <subfield code="x">History</subfield>
+      <subfield code="y">20th century.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Disaster relief.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst00894731</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Disasters</subfield>
+      <subfield code="x">Psychological aspects.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst00894796</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Earthquakes.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst00900899</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="651">
+      <subfield code="a">Mexico</subfield>
+      <subfield code="z">Mexico City.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01206137</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="648">
+      <subfield code="a">1900-1999</subfield>
+      <subfield code="2">fast</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="655">
+      <subfield code="a">History.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01411628</subfield>
+    </datafield>
+    <datafield ind1="2" ind2=" " tag="710">
+      <subfield code="a">Museo Nacional de Culturas Populares (Mexico)</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="830">
+      <subfield code="a">Serie Testimonios (Museo Nacional de Culturas Populares (Mexico))</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="029">
+      <subfield code="a">AU@</subfield>
+      <subfield code="b">000006317466</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="029">
+      <subfield code="a">AU@</subfield>
+      <subfield code="b">000057944080</subfield>
+    </datafield>
+  </record>

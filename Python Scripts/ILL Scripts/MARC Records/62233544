@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+    <leader>00000cam a2200000Ia 4500</leader>
+    <controlfield tag="001">62233544</controlfield>
+    <controlfield tag="008">051107s2005    mx af         000 0 spa  </controlfield>
+    <datafield ind1=" " ind2=" " tag="040">
+      <subfield code="a">TEF</subfield>
+      <subfield code="b">eng</subfield>
+      <subfield code="c">TEF</subfield>
+      <subfield code="d">BAKER</subfield>
+      <subfield code="d">YDXCP</subfield>
+      <subfield code="d">OCLCA</subfield>
+      <subfield code="d">UXS</subfield>
+      <subfield code="d">LIBRO</subfield>
+      <subfield code="d">OCLCO</subfield>
+      <subfield code="d">OCLCQ</subfield>
+      <subfield code="d">I8M</subfield>
+      <subfield code="d">SFR</subfield>
+      <subfield code="d">OCLCO</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="020">
+      <subfield code="a">9684116411</subfield>
+      <subfield code="q">(Era)</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="020">
+      <subfield code="a">9789684116412</subfield>
+      <subfield code="q">(Era)</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="020">
+      <subfield code="a">9562827488</subfield>
+      <subfield code="q">(Lom)</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="020">
+      <subfield code="a">9789562827485</subfield>
+      <subfield code="q">(Lom)</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="020">
+      <subfield code="a">9974323886</subfield>
+      <subfield code="q">(Trilce)</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="020">
+      <subfield code="a">9789974323889</subfield>
+      <subfield code="q">(Trilce)</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="020">
+      <subfield code="a">8481363235</subfield>
+      <subfield code="q">(Txalaparta)</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="020">
+      <subfield code="a">9788481363234</subfield>
+      <subfield code="q">(Txalaparta)</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="043">
+      <subfield code="a">n-mx---</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="4" tag="050">
+      <subfield code="a">F1386.3</subfield>
+      <subfield code="b">.M66 2005</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="4" tag="082">
+      <subfield code="a">972/.53</subfield>
+      <subfield code="2">22</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="4" tag="082">
+      <subfield code="a">M860.64</subfield>
+      <subfield code="b">M6N6</subfield>
+      <subfield code="2">22</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="100">
+      <subfield code="a">Monsiváis, Carlos,</subfield>
+      <subfield code="d">1938-2010.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="0" tag="245">
+      <subfield code="a">"No sin nosotros" :</subfield>
+      <subfield code="b">los días del terremoto 1985-2005 /</subfield>
+      <subfield code="c">Carlos Monsiváis.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="250">
+      <subfield code="a">1. ed.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="260">
+      <subfield code="a">México, D.F. :</subfield>
+      <subfield code="b">Ediciones Era ;</subfield>
+      <subfield code="a">Santiago de Chile :</subfield>
+      <subfield code="b">Lom Ediciones ;</subfield>
+      <subfield code="a">Montevideo, Uruguay :</subfield>
+      <subfield code="b">Trilce Ediciones ;</subfield>
+      <subfield code="a">Tafalla, Navarra [Spain] :</subfield>
+      <subfield code="b">Editorial Txalaparta,</subfield>
+      <subfield code="c">2005.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">166 pages, [4] pages of plates :</subfield>
+      <subfield code="b">illustrations ;</subfield>
+      <subfield code="c">17 cm.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="336">
+      <subfield code="a">text</subfield>
+      <subfield code="b">txt</subfield>
+      <subfield code="2">rdacontent</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="337">
+      <subfield code="a">unmediated</subfield>
+      <subfield code="b">n</subfield>
+      <subfield code="2">rdamedia</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="338">
+      <subfield code="a">volume</subfield>
+      <subfield code="b">nc</subfield>
+      <subfield code="2">rdacarrier</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="490">
+      <subfield code="a">Bolsillo Era</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="505">
+      <subfield code="a">Después del terremoto: de algunas transformaciones de la vida nacional -- Los días del terremoto.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Earthquakes</subfield>
+      <subfield code="z">Mexico</subfield>
+      <subfield code="z">Mexico City Region.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Earthquakes</subfield>
+      <subfield code="z">Mexico</subfield>
+      <subfield code="z">Mexico City Region</subfield>
+      <subfield code="x">Sociological aspects.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Terremotos</subfield>
+      <subfield code="z">México</subfield>
+      <subfield code="z">México (Ciudad)</subfield>
+      <subfield code="x">Región.</subfield>
+      <subfield code="2">bidex</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Terremotos</subfield>
+      <subfield code="x">Aspectos sociológicos</subfield>
+      <subfield code="z">México</subfield>
+      <subfield code="z">México (Ciudad)</subfield>
+      <subfield code="x">Región.</subfield>
+      <subfield code="2">bidex</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Literatura mexicana</subfield>
+      <subfield code="y">Siglo XX.</subfield>
+      <subfield code="2">lemb</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Terremotos</subfield>
+      <subfield code="z">México</subfield>
+      <subfield code="y">1985.</subfield>
+      <subfield code="2">lemb</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="651">
+      <subfield code="a">México</subfield>
+      <subfield code="x">Historia.</subfield>
+      <subfield code="2">lemb</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="651">
+      <subfield code="a">México</subfield>
+      <subfield code="x">Condiciones sociales.</subfield>
+      <subfield code="2">lemb</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="4" tag="651">
+      <subfield code="a">México</subfield>
+      <subfield code="x">Política y gobierno</subfield>
+      <subfield code="y">Siglo XX.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="4" tag="651">
+      <subfield code="a">Terremoto de la Ciudad de México, México, 1985</subfield>
+      <subfield code="v">Relatos personales.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="830">
+      <subfield code="a">Bolsillo Era.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="938">
+      <subfield code="a">Baker &amp; Taylor</subfield>
+      <subfield code="b">BKTY</subfield>
+      <subfield code="c">11.95</subfield>
+      <subfield code="d">11.95</subfield>
+      <subfield code="i">9684116411</subfield>
+      <subfield code="n">0006625725</subfield>
+      <subfield code="s">active</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="938">
+      <subfield code="a">YBP Library Services</subfield>
+      <subfield code="b">YANK</subfield>
+      <subfield code="n">2691917</subfield>
+    </datafield>
+  </record>

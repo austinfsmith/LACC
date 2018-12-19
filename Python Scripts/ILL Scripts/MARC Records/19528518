@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+    <leader>00000cam a2200000Ia 4500</leader>
+    <controlfield tag="001">19528518</controlfield>
+    <controlfield tag="008">890410s1930    bl a          000 0 por d</controlfield>
+    <datafield ind1=" " ind2=" " tag="040">
+      <subfield code="a">SMI</subfield>
+      <subfield code="b">eng</subfield>
+      <subfield code="c">SMI</subfield>
+      <subfield code="d">UBA</subfield>
+      <subfield code="d">OCLCQ</subfield>
+      <subfield code="d">OCLCG</subfield>
+      <subfield code="d">OCLCQ</subfield>
+      <subfield code="d">OCLCO</subfield>
+      <subfield code="d">OCLCA</subfield>
+      <subfield code="d">OCLCF</subfield>
+      <subfield code="d">OCLCQ</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="043">
+      <subfield code="a">s-bl---</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="4" tag="050">
+      <subfield code="a">F2651.S2</subfield>
+      <subfield code="b">F86 1930</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="100">
+      <subfield code="a">Freitas, Affonso A. de</subfield>
+      <subfield code="q">(Affonso Antonio),</subfield>
+      <subfield code="d">1868-1930.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="0" tag="245">
+      <subfield code="a">Diccionario historico, topographico, ethnographico illustrado do municipio de São Paulo :</subfield>
+      <subfield code="b">contendo a origem e a historia do municipio e de suas povoações, descripção da climatologia regional, interpretação dos termos autochtones empregados na geographia e no vocabulario dialectal, nomenclatura das ruas e bairros da cidade e origem das respectivas denominações, elucidação de factos historicos desenrolados na capital do estado, etc., etc. /</subfield>
+      <subfield code="c">por Affonso A. de Freitas.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="260">
+      <subfield code="a">São Paulo :</subfield>
+      <subfield code="b">Graphica Paulista,</subfield>
+      <subfield code="c">1930-</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">volumes :</subfield>
+      <subfield code="b">illustrations ;</subfield>
+      <subfield code="c">22 cm</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="336">
+      <subfield code="a">text</subfield>
+      <subfield code="b">txt</subfield>
+      <subfield code="2">rdacontent</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="337">
+      <subfield code="a">unmediated</subfield>
+      <subfield code="b">n</subfield>
+      <subfield code="2">rdamedia</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="338">
+      <subfield code="a">volume</subfield>
+      <subfield code="b">nc</subfield>
+      <subfield code="2">rdacarrier</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">Errata included.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="651">
+      <subfield code="a">São Paulo (Brazil)</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="651">
+      <subfield code="a">Brazil.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="651">
+      <subfield code="a">Brazil.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01206830</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="651">
+      <subfield code="a">Brazil</subfield>
+      <subfield code="z">São Paulo.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01205761</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Historia Do Brasil</subfield>
+      <subfield code="x">Sao Paulo.</subfield>
+      <subfield code="2">larpcal</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Dicionario Historico.</subfield>
+      <subfield code="2">larpcal</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Geografia De Sao Paulo.</subfield>
+      <subfield code="2">larpcal</subfield>
+    </datafield>
+  </record>

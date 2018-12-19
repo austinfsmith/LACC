@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+    <leader>00000cam a2200000Ia 4500</leader>
+    <controlfield tag="001">70710650</controlfield>
+    <controlfield tag="008">060727r20051864bl a     b    000 0 por d</controlfield>
+    <datafield ind1=" " ind2=" " tag="040">
+      <subfield code="a">IQU</subfield>
+      <subfield code="b">eng</subfield>
+      <subfield code="c">IQU</subfield>
+      <subfield code="d">IQU</subfield>
+      <subfield code="d">H7K</subfield>
+      <subfield code="d">BLBSF</subfield>
+      <subfield code="d">UKMGB</subfield>
+      <subfield code="d">OCLCA</subfield>
+      <subfield code="d">OCLCF</subfield>
+      <subfield code="d">OCLCQ</subfield>
+      <subfield code="d">OCLCO</subfield>
+      <subfield code="d">OCL</subfield>
+      <subfield code="d">OCLCQ</subfield>
+    </datafield>
+    <datafield ind1="7" ind2=" " tag="016">
+      <subfield code="a">013802716</subfield>
+      <subfield code="2">Uk</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="020">
+      <subfield code="a">8531408717</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="020">
+      <subfield code="a">9788531408717</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="043">
+      <subfield code="a">s-bl---</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="4" tag="050">
+      <subfield code="a">F2651.S2</subfield>
+      <subfield code="b">D52 2005</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="4" tag="082">
+      <subfield code="a">056.9</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="0" tag="245">
+      <subfield code="a">Diabo coxo :</subfield>
+      <subfield code="b">São Paulo, 1864-1865.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="4" tag="246">
+      <subfield code="a">Diabocoxo</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="250">
+      <subfield code="a">Ed. fac-similar.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="260">
+      <subfield code="a">São Paulo :</subfield>
+      <subfield code="b">Edusp :</subfield>
+      <subfield code="b">Academia Paulista de História,</subfield>
+      <subfield code="c">©2005.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">1 volume (various pagings) :</subfield>
+      <subfield code="b">illustrations ;</subfield>
+      <subfield code="c">25 cm.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="336">
+      <subfield code="a">text</subfield>
+      <subfield code="b">txt</subfield>
+      <subfield code="2">rdacontent</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="337">
+      <subfield code="a">unmediated</subfield>
+      <subfield code="b">n</subfield>
+      <subfield code="2">rdamedia</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="338">
+      <subfield code="a">volume</subfield>
+      <subfield code="b">nc</subfield>
+      <subfield code="2">rdacarrier</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="490">
+      <subfield code="a">Ad litteram</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">Facsimile reprint, with new introd., of the 19th century publication "O Diabo Coxo," a small format Sunday journal published in São Paulo 1864-1865, of which the only existing original and complete copy (24 issues) is kept in the Biblioteca Municipal Mário de Andrade. The publication was a low cost weekly journal that included illustrations of engraver Angelo Agostini with articles, poetry, news, criticism, riddles, etc. by Luís Gama and Sizenando Barreto Nabuco de Araújo.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="504">
+      <subfield code="a">Includes bibliographical references.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="651">
+      <subfield code="a">São Paulo (Brazil)</subfield>
+      <subfield code="v">Periodicals.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Brazilian wit and humor, Pictorial</subfield>
+      <subfield code="v">Periodicals.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="651">
+      <subfield code="a">Brazil</subfield>
+      <subfield code="x">Politics and government</subfield>
+      <subfield code="y">1822-1889</subfield>
+      <subfield code="v">Caricatures and cartoons</subfield>
+      <subfield code="v">Periodicals.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Political satire, Brazilian</subfield>
+      <subfield code="v">Periodicals.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Brazilian wit and humor, Pictorial.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst00838161</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Political satire, Brazilian.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01069734</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Politics and government.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01919741</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="651">
+      <subfield code="a">Brazil.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01206830</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="651">
+      <subfield code="a">Brazil</subfield>
+      <subfield code="z">São Paulo.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01205761</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="648">
+      <subfield code="a">1822-1889</subfield>
+      <subfield code="2">fast</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="655">
+      <subfield code="a">Caricatures and cartoons.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01423691</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="655">
+      <subfield code="a">Periodicals.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01411641</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="700">
+      <subfield code="a">Agostini, Angelo,</subfield>
+      <subfield code="d">1843-1910.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="700">
+      <subfield code="a">Gama, Luís,</subfield>
+      <subfield code="d">1830-1882.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="700">
+      <subfield code="a">Araújo, Sizenando Barreto Nabuco de,</subfield>
+      <subfield code="d">1842-1892.</subfield>
+    </datafield>
+    <datafield ind1="2" ind2=" " tag="710">
+      <subfield code="a">Academia Paulista de História.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="830">
+      <subfield code="a">Ad litteram (São Paulo, Brazil)</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="938">
+      <subfield code="a">Howard Karno Books</subfield>
+      <subfield code="b">KARN</subfield>
+      <subfield code="n">kb2001078877</subfield>
+      <subfield code="c">$65.00</subfield>
+    </datafield>
+  </record>

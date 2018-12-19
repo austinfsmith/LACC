@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+    <leader>00000cam a22000004a 4500</leader>
+    <controlfield tag="001">123502509</controlfield>
+    <controlfield tag="008">070116s2006    bl a     b    000 0 por c</controlfield>
+    <datafield ind1=" " ind2=" " tag="010">
+      <subfield code="a">  2006450338</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="040">
+      <subfield code="a">STF</subfield>
+      <subfield code="b">eng</subfield>
+      <subfield code="c">STF</subfield>
+      <subfield code="d">DLC</subfield>
+      <subfield code="d">OCLCF</subfield>
+      <subfield code="d">OCLCO</subfield>
+      <subfield code="d">OCLCQ</subfield>
+      <subfield code="d">OCL</subfield>
+      <subfield code="d">OCLCQ</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="020">
+      <subfield code="a">8575772694</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="020">
+      <subfield code="a">9788575772690</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="042">
+      <subfield code="a">pcc</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="043">
+      <subfield code="a">s-bl---</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="4" tag="050">
+      <subfield code="a">NA6840.B6</subfield>
+      <subfield code="b">L56 2006</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="100">
+      <subfield code="a">Lima, Evelyn F. Werneck</subfield>
+      <subfield code="q">(Evelyn Furquim Werneck),</subfield>
+      <subfield code="d">1946-</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="0" tag="245">
+      <subfield code="a">Das vanguardas à tradição :</subfield>
+      <subfield code="b">arquitetura, teatro e espaço urbano /</subfield>
+      <subfield code="c">Evelyn Furquim Werneck Lima.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="260">
+      <subfield code="a">Rio de Janeiro :</subfield>
+      <subfield code="b">7 Letras,</subfield>
+      <subfield code="c">©2006.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">171 pages :</subfield>
+      <subfield code="b">illustrations ;</subfield>
+      <subfield code="c">22 cm</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="336">
+      <subfield code="a">text</subfield>
+      <subfield code="b">txt</subfield>
+      <subfield code="2">rdacontent</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="337">
+      <subfield code="a">unmediated</subfield>
+      <subfield code="b">n</subfield>
+      <subfield code="2">rdamedia</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="338">
+      <subfield code="a">volume</subfield>
+      <subfield code="b">nc</subfield>
+      <subfield code="2">rdacarrier</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="504">
+      <subfield code="a">Includes bibliographical references (pages 166-171).</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="505">
+      <subfield code="a">Teatro e arquitetura -- Em busca de novos paradigmas: concepçoes cenográficas insitadas no teatro europeu -- um palco urbano para a sociedade brasileira -- o Lirico e o Fénix: reesboçando a tradiçao -- A pseudomodernidade de Alesandro Baldassini no Teatro Joao Caetano -- A cena carioca: mais tradiçoes do que rupturas -- 2. Espaço Urbano e Arquitetura -- Utopias do espaço urbano: teorias e tendéncias -- Como funcionalismo se introduziu na arquitetura brasileira -- O campus da UFRJ como cenario do espaço funcionalista -- A derrota das vanguardías e a permanncia da tradiçao: o predio da Central do Brasil.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Theaters</subfield>
+      <subfield code="z">Brazil</subfield>
+      <subfield code="x">History</subfield>
+      <subfield code="y">20th century.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Theater architecture</subfield>
+      <subfield code="z">Brazil</subfield>
+      <subfield code="x">History</subfield>
+      <subfield code="y">20th century.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Theater</subfield>
+      <subfield code="z">Brazil</subfield>
+      <subfield code="x">History</subfield>
+      <subfield code="y">20th century.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Modernism (Art)</subfield>
+      <subfield code="z">Brazil.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Modernism (Art)</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01024442</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Theater.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01149217</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Theater architecture.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01149322</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Theaters.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01149370</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="651">
+      <subfield code="a">Brazil.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01206830</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Arquitetura.</subfield>
+      <subfield code="2">larpcal</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Teatro (arquitetura)</subfield>
+      <subfield code="2">larpcal</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Espaço urbano.</subfield>
+      <subfield code="2">larpcal</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Espaço público.</subfield>
+      <subfield code="2">larpcal</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="648">
+      <subfield code="a">1900-1999</subfield>
+      <subfield code="2">fast</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="655">
+      <subfield code="a">History.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01411628</subfield>
+    </datafield>
+  </record>

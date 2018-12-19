@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+    <leader>00000cam a2200000Ia 4500</leader>
+    <controlfield tag="001">14105856</controlfield>
+    <controlfield tag="008">860819s1986    mx af         000 0 spa d</controlfield>
+    <datafield ind1=" " ind2=" " tag="040">
+      <subfield code="a">GZM</subfield>
+      <subfield code="b">eng</subfield>
+      <subfield code="c">GZM</subfield>
+      <subfield code="d">UIU</subfield>
+      <subfield code="d">BAKER</subfield>
+      <subfield code="d">BTCTA</subfield>
+      <subfield code="d">YDXCP</subfield>
+      <subfield code="d">OCLCG</subfield>
+      <subfield code="d">OCLCQ</subfield>
+      <subfield code="d">OCLCF</subfield>
+      <subfield code="d">OCLCO</subfield>
+      <subfield code="d">OCLCQ</subfield>
+      <subfield code="d">OCLCA</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="020">
+      <subfield code="a">9684930933</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="020">
+      <subfield code="a">9789684930933</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="029">
+      <subfield code="a">DEBBG</subfield>
+      <subfield code="b">BV004210527</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="029">
+      <subfield code="a">AU@</subfield>
+      <subfield code="b">000058110677</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="043">
+      <subfield code="a">n-mx---</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="4" tag="050">
+      <subfield code="a">F1386.3</subfield>
+      <subfield code="b">.M87 1986</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="4" tag="082">
+      <subfield code="a">363.34950972</subfield>
+      <subfield code="b">M97c</subfield>
+      <subfield code="2">20</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="100">
+      <subfield code="a">Musacchio, Humberto,</subfield>
+      <subfield code="d">1943-</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="0" tag="245">
+      <subfield code="a">Ciudad quebrada /</subfield>
+      <subfield code="c">Humberto Musacchio ; fotografías de Pedro Valtierra.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="260">
+      <subfield code="a">México, D.F. :</subfield>
+      <subfield code="b">Ediciones Océano,</subfield>
+      <subfield code="c">©1986.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">136 pages, [32] pages of plates :</subfield>
+      <subfield code="b">illustrations ;</subfield>
+      <subfield code="c">23 cm</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="336">
+      <subfield code="a">text</subfield>
+      <subfield code="b">txt</subfield>
+      <subfield code="2">rdacontent</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="337">
+      <subfield code="a">unmediated</subfield>
+      <subfield code="b">n</subfield>
+      <subfield code="2">rdamedia</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="338">
+      <subfield code="a">volume</subfield>
+      <subfield code="b">nc</subfield>
+      <subfield code="2">rdacarrier</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Earthquakes</subfield>
+      <subfield code="z">Mexico</subfield>
+      <subfield code="z">Mexico City.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Earthquakes.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst00900899</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="651">
+      <subfield code="a">Mexico</subfield>
+      <subfield code="z">Mexico City.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01206137</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="938">
+      <subfield code="a">Baker &amp; Taylor</subfield>
+      <subfield code="b">BKTY</subfield>
+      <subfield code="c">6.25</subfield>
+      <subfield code="d">5.63</subfield>
+      <subfield code="i">9684930933</subfield>
+      <subfield code="n">0001151692</subfield>
+      <subfield code="s">active</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="938">
+      <subfield code="a">Baker and Taylor</subfield>
+      <subfield code="b">BTCP</subfield>
+      <subfield code="n">bl 99966708</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="938">
+      <subfield code="a">YBP Library Services</subfield>
+      <subfield code="b">YANK</subfield>
+      <subfield code="n">2692128</subfield>
+    </datafield>
+  </record>

@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+    <leader>00000cam a2200000Ia 4500</leader>
+    <controlfield tag="001">35107782</controlfield>
+    <controlfield tag="008">960718s1995    mx a          000 0 spa d</controlfield>
+    <datafield ind1=" " ind2=" " tag="040">
+      <subfield code="a">LPU</subfield>
+      <subfield code="b">eng</subfield>
+      <subfield code="c">LPU</subfield>
+      <subfield code="d">IQU</subfield>
+      <subfield code="d">OCLCQ</subfield>
+      <subfield code="d">OCLCF</subfield>
+      <subfield code="d">OCLCQ</subfield>
+      <subfield code="d">OCLCO</subfield>
+      <subfield code="d">TXI</subfield>
+      <subfield code="d">OCLCA</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="043">
+      <subfield code="a">n-mx---</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="4" tag="050">
+      <subfield code="a">TR820</subfield>
+      <subfield code="b">.I42 1995</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="0" tag="245">
+      <subfield code="a">Imágenes y testimonios del 85 :</subfield>
+      <subfield code="b">(el despertar de la sociedad civil) /</subfield>
+      <subfield code="c">coordinación, Fernando Betancourt ; compilación, Alejandro Varas, Ignacio Betancourt, Mario enrique Martínez.</subfield>
+    </datafield>
+    <datafield ind1="3" ind2="0" tag="246">
+      <subfield code="a">Despertar de la sociedad civil</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="250">
+      <subfield code="a">1. ed.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="260">
+      <subfield code="a">Mexico, D.F. :</subfield>
+      <subfield code="b">Estampa Artes Gráficas,</subfield>
+      <subfield code="c">1995.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">142 pages :</subfield>
+      <subfield code="b">illustrations ;</subfield>
+      <subfield code="c">27 cm</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="336">
+      <subfield code="a">text</subfield>
+      <subfield code="b">txt</subfield>
+      <subfield code="2">rdacontent</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="337">
+      <subfield code="a">unmediated</subfield>
+      <subfield code="b">n</subfield>
+      <subfield code="2">rdamedia</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="338">
+      <subfield code="a">volume</subfield>
+      <subfield code="b">nc</subfield>
+      <subfield code="2">rdacarrier</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="505">
+      <subfield code="a">El terremoto de 1985 : reminiscencias, lecciones y consecuencias / Carlos Monsiváis -- Miré los muros de la patria mía / Roberto López Moreno -- Portafolio fotográfico -- Terror en el amanecer / Margarita Ferrer Sepahua -- Estoy bien sólo tengo una cruda / Ignacio Betancourt -- Cármen Castro : diez años después del adiós / Margarita Tortajada Quiroz -- 1985 : días de horror y enseñzas / Jorge Perezvega -- Corrido de la fundación de la unión de vecinos y damnificados, 19 de septiembre.</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="505">
+      <subfield code="a">The earthquake of 1985 : reminiscences, lessons and consequences / Carlos Monsiváis -- I looked at the walls of my homeland / Roberto López Moreno -- Photographic Portfolio -- Terror at dawn / Margarita Ferrer Sepahua -- I'm fine I only have one raw / Ignacio Betancourt -- Cármen Castro : ten years after goodbye / Margarita Tortajada Quiroz -- 1985 : days of horror and teachings / Jorge Perezvega -- Run of the foundation of the union of neighbors and victims, September 19.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Photojournalism</subfield>
+      <subfield code="z">Mexico.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Earthquakes</subfield>
+      <subfield code="z">Mexico</subfield>
+      <subfield code="z">Mexico City</subfield>
+      <subfield code="v">Pictorial works.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="651">
+      <subfield code="a">Mexico City (Mexico)</subfield>
+      <subfield code="x">History</subfield>
+      <subfield code="v">Pictorial works.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Earthquakes.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst00900899</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Photojournalism.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01062022</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="651">
+      <subfield code="a">Mexico.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01211700</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="651">
+      <subfield code="a">Mexico</subfield>
+      <subfield code="z">Mexico City.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01206137</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="655">
+      <subfield code="a">History.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01411628</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="655">
+      <subfield code="a">Pictorial works.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01423874</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="700">
+      <subfield code="a">Betancourt, Fernando.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="700">
+      <subfield code="a">Monsiváis, Carlos,</subfield>
+      <subfield code="d">1938-2010.</subfield>
+      <subfield code="t">El terremoto de 1985 : reminiscencias, lecciones y consecuencias.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="700">
+      <subfield code="a">López Moreno, Roberto,</subfield>
+      <subfield code="d">1942-</subfield>
+      <subfield code="t">Miré los muros de la patria mía.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="700">
+      <subfield code="a">Betancourt, Ignacio,</subfield>
+      <subfield code="d">1948-</subfield>
+      <subfield code="t">Estoy bien sólo tengo una cruda.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="700">
+      <subfield code="a">Tortajada, Margarita.</subfield>
+      <subfield code="t">Cármen Castro : diez años después del adiós.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="700">
+      <subfield code="a">Pérezvega, Jorge.</subfield>
+      <subfield code="t">1985 : días de horror y enseñzas.</subfield>
+    </datafield>
+  </record>
