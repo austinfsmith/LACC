@@ -100,12 +100,12 @@ Javascript visualizations must be hosted on a server, as your browser likely wil
 
 ## Description
 
-Much of the code written for the ILL data analysis portion of the LACC study dealt with the idiosyncracies of the data available to us. This code is neither portable nor easily read, so in lieu of sharing it, two brief example scripts are included to demonstrate the tools used for ILL data analysis.
+Much of the code written for the ILL data analysis portion of the LACC study dealt with parsing or mitigating the idiosyncracies of the data available to the investigators. This code is neither portable nor easily read, so in lieu of sharing it, two brief example scripts are included to demonstrate the tools used for ILL data analysis. A small data set is also included as a demonstration.
 
 The DetectLanguages script accepts as input a CSV file containing a list of requests exported from ILLiad or another ILL system, and outputs a modified version of the same list, filtered to exclude any requests which appear to be in languages outside of the scope of interest.
 
 The CheckMARCRecords script accepts as input the output of the DetectLanguages script, as well as the MARC records for the items listed in that output. It inspects the MARC records to identify the actual country and language of publication, and outputs a report containing this information.
 
-##Using the Output
+## Using the Output
 
 The output of the CheckMARCRecords script can be used as the basis for any number of analyses, reports, and visualizations. It can be worked with in Excel as-is, or imported into MS Access and queried as desired.
